@@ -36,8 +36,8 @@
 
 ### <p align="center">📊 Stats 📊</p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waxnet&count_private=true&show_icons=true&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=NexisWare&count_private=true&show_icons=true&theme=dark">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waxnet&layout=compact&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexisWare&layout=compact&theme=dark">
 </p>
