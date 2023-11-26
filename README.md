@@ -2,7 +2,7 @@
 <p align= "center">
   <img src="https://komarev.com/ghpvc/?username=NexisWare">
   <br>
-  <img src="https://img.shields.io/badge/-nexisware%230078-0078f2?style=flat&logo=Discord&logoColor=white">
+  <img src="https://img.shields.io/badge/-nexisware-0078f2?style=flat&logo=Discord&logoColor=white">
 </p>
 
 -----
